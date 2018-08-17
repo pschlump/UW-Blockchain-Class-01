@@ -155,24 +155,24 @@ Assignments and Due Dates
 
 This is a tentative schedule:
 
-    | Assignment                 | Due Date           | Points |
-    |:---------------------------|:-------------------|:------:|
-    | AS-01 Learn Go             | Sep 12             | 100    |
-    | AS-02 Genisis Block        | Sep 19             | 100    |
-    | AS-03 Merkle Trees         | Sep 26             | 200    |
-    | AS-04 Transactions         | Oct 10             | 100    |
-    | AS-05 Hasing               | Oct 17             | 100    |
-    | AS-06 Mining               | Oct 24             | 100    |
-    | Paper Due                  | Oct 26             | 100    |
-    | Midterm and Demo Proj 1.   | Week of Oct 29     | 400    |
-    | AS-07 Solidity & Truffle   | Nov 7              | 100    |
-    | AS-08                      | Nov 14             | 100    |
-    | AS-09                      | Nov 20             | 100    |
-    | AS-10                      | Nov 28             | 100    |
-    | AS-11                      | Dec 7              | 200    |
-    | Demo Proj 2 start Dec 5    |                    |        |
-    | ends Dec 14                |                    |        |
-    | Final                      |                    | 400    |
+| Assignment                 | Due Date           | Points |
+|:---------------------------|:-------------------|:------:|
+| AS-01 Learn Go             | Sep 12             | 100    |
+| AS-02 Genisis Block        | Sep 19             | 100    |
+| AS-03 Merkle Trees         | Sep 26             | 200    |
+| AS-04 Transactions         | Oct 10             | 100    |
+| AS-05 Hasing               | Oct 17             | 100    |
+| AS-06 Mining               | Oct 24             | 100    |
+| Paper Due                  | Oct 26             | 100    |
+| Midterm and Demo Proj 1.   | Week of Oct 29     | 400    |
+| AS-07 Solidity & Truffle   | Nov 7              | 100    |
+| AS-08                      | Nov 14             | 100    |
+| AS-09                      | Nov 20             | 100    |
+| AS-10                      | Nov 28             | 100    |
+| AS-11                      | Dec 7              | 200    |
+| Demo Proj 2 start Dec 5    |                    |        |
+| ends Dec 14                |                    |        |
+| Final                      |                    | 400    |
 
 
 Textbook

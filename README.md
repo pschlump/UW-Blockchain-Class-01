@@ -156,7 +156,7 @@ Assignments and Due Dates
 This is a tentative schedule
 
 	| Assignment                 | Due Date           | Points |
-	|:-------------------------- |:------------------ |: ---- :|
+	|:---------------------------|:-------------------|:------:|
 	| AS-01 Learn Go             | Sep 12             | 100    |
 	| AS-02 Genisis Block        | Sep 19             | 100    |
 	| AS-03 Merkle Trees         | Sep 26             | 200    |

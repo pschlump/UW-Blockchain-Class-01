@@ -40,12 +40,14 @@ Overview
 
 5. Class Points Total
 
+	Points available:
+
 	| Points            | Class Item         |
-	| ---------------- :| ------------------ |
+	|------------------:|--------------------|
 	| 1400              | Homework total     |
 	|  800              | 2 tests            |
 
-	To get a letter grade in the class.
+	To get a letter grade in the class:
 
 	| Points            | Semester Grade     |
 	| ----------------- | ------------------ |
